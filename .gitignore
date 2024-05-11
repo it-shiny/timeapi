@@ -1,22 +1,22 @@
-# Ignore build artifacts
-bin/
-obj/
+# # Ignore build artifacts
+# bin/
+# obj/
 
-# Ignore Visual Studio files
-.vs/
+# # Ignore Visual Studio files
+# .vs/
 
-# Ignore NuGet package directory
-packages/
+# # Ignore NuGet package directory
+# packages/
 
-# Ignore user-specific files
-*.user
+# # Ignore user-specific files
+# *.user
 
-# Ignore .NET Core artifacts
-*.suo
-*.cache
-*.pdb
-*.dll
-*.exe
-*.log
-*.vspscc
-*.vssscc
+# # Ignore .NET Core artifacts
+# *.suo
+# *.cache
+# *.pdb
+# *.dll
+# *.exe
+# *.log
+# *.vspscc
+# *.vssscc
